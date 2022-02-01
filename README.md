@@ -2,11 +2,11 @@
 
 > News is a web application that displays a list of various news sources. On choosing a news source, it will preview the top news articles of the day. Clicking a news article > > will redirect the user to read it fully from the news source. It achieves this by using the News API.
 > ## Demo-Link
-> Demo https://kivazm.herokuapp.com/
+> Demo https://news-franshek.herokuapp.com/
 
  ## Author
 
-> [GILBERT YEGON](https://kivazm.herokuapp.com/)
+> [GILBERT YEGON](https://news-franshek.herokuapp.com/)
 
  ## Description
 > News is a web application that displays a list of various news sources. On choosing a news source, it will preview the top news articles of the day. Clicking a news article > > will redirect the user to read it fully from the news source. It achieves this by using the News API.
@@ -30,7 +30,7 @@
 > * Python3.9
 
 ## How to use 
-> * Click (https://newske.herokuapp.com/) <br/>
+> * Click (https://news-franshek.herokuapp.com/) <br/>
   
 > * Click any News source you'd like
 
