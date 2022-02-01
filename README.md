@@ -36,7 +36,7 @@
 
 
 ## Setup/Installation 
-> * git clone https://github.com/Robaa2168/News.git
+> * git clone https://github.com/Gilbertyegon/News.git
 > * $ cd News
 > * $ python -m venv virtual (install virtual environment)
 > * $ source virtual/bin/activate
